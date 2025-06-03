@@ -25,7 +25,7 @@ El modelo se ha desarrollado utilizando técnicas de **clustering** para segment
 
 - **Python 3.x**
 - **Streamlit**
-- **scikit-learn**
+- **scikit-learn == 1.3.2**
 - **pandas**
 - **numpy**
 
